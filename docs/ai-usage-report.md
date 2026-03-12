@@ -1,11 +1,5 @@
 
----
 
-## 5) `docs/ai-usage-report.md`
-
-Put this in `docs/ai-usage-report.md`:
-
-```md
 # AI Usage Report
 
 ## AI Tools Used
